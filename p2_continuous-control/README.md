@@ -22,7 +22,7 @@ Project requirement is to get average score of +30 over 100 consecutive episodes
 
 For this project, the Unity environment contains 20 identical agents,each with its own copy of the environment.  
 
-Beside recommended algorithms like [PPO](https://arxiv.org/pdf/1707.06347.pdf), [A3C](https://arxiv.org/pdf/1602.01783.pdf), and [D4PG](https://openreview.net/pdf?id=SyZipzbCb) we used [DDPG] (https://arxiv.org/pdf/1509.02971.pdf) (Deep Deterministic Polict Gradient) algorithm from Google DeepMind.
+Beside recommended algorithms like [PPO](https://arxiv.org/pdf/1707.06347.pdf), [A3C](https://arxiv.org/pdf/1602.01783.pdf), and [D4PG](https://openreview.net/pdf?id=SyZipzbCb) we used [DDPG](https://arxiv.org/pdf/1509.02971.pdf), (Deep Deterministic Polict Gradient) algorithm from Google DeepMind.
 
 ### Solving the Environment
 
